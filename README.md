@@ -83,3 +83,7 @@ This research focuses on predicting cryptocurrency prices using both Long Short-
 
 - The project utilizes historical price and market data from [https://www.kaggle.com/].
 - Gratitude to [Dr. Tatenda and Percy Brown] for valuable guidance and support.
+- 
+
+Video showing how the app works
+https://youtu.be/JEB1uj1T4j0
